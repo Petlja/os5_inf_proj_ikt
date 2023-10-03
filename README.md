@@ -2,7 +2,7 @@
 
 Ovaj repozitorijum posvećen je priručniku za Projektnu nastavu za peti razred osnovne škole IKT . 
 
-Kurs je na Petljom portalu dotupan ovde: [https://petlja.org/biblioteka/r/kursevi/V_projektniZadatak](https://petlja.org/biblioteka/r/kursevi/V_projektniZadatak)
+Kurs je na Petljinom portalu dotupan ovde: [https://petlja.org/biblioteka/r/kursevi/V_projektniZadatak](https://petlja.org/biblioteka/r/kursevi/V_projektniZadatak)
 
 
 ## Konverzija u *HTML*
